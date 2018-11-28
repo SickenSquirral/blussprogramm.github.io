@@ -1,0 +1,63 @@
+body, html{
+  background-color: white;
+}
+
+.header{
+	background-color: #D1FCDC;
+	height: 180px;
+	text-align: center;
+}
+
+.Logo{
+	height: 140px;
+	padding-top: 20px;
+}
+
+.Sidebakgrunn{
+	background-color: #6F7372;
+}
+
+.external_link{
+	padding: 20px 10px 20px 10px;
+}
+
+.first{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.last{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.external_link img{
+	width: 100%;
+}
+
+.copyright {
+	min-height: 84px;
+	background-color: #4D4D4D;
+}
+
+.instafeed{
+	padding: 40px 0 40px 0;
+}
+
+.text {
+    height: 30px;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.insta {
+	height: 30px;
+	width: 30px;
+}
+
+.footer{
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 27px;
+}
+
